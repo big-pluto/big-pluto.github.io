@@ -1,0 +1,43 @@
+
+/* CLASSES */
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.center{
+    margin: auto;
+    display: block;
+}
+
+.randomWhite{
+    color: white;
+    font-size: bold;
+}
+
+.coolAf{
+    border: none;
+    background-color: rgb(21, 130, 255);
+    color: white;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+    border-radius: 7px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+/* ----------------- */
+
+html{
+background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:linear-gradient(to top,rgb(17,17,17) 0%,rgba(0,0,0,0) 85%,rgba(0,0,0,0) 100%), url(assets/thumb-1920-909641.png);
+
+}
+
