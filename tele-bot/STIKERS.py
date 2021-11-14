@@ -1,0 +1,2 @@
+# Sticker ID for less bestemmie
+PAPER_ALRIGHT = 'CAACAgIAAxkBAAEDSMdhkTzkhawdsCMv-TpE6z42xNYSgAACvw0AAh9m0EpQ696D2UE24iIE'

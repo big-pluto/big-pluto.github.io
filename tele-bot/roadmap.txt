@@ -1,0 +1,9 @@
+TOSSIC-BOT
+comando passamela_fra -> aggiungi +1 a file txt
+    prendere l'ora invio messaggio
+    prendere giorno invio mess
+    #prendere luogo (coordinate)
+
+comando quante -> restituisci numero totale
+
+comando quali -> restituisci numero con giorni
