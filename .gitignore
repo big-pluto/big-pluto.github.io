@@ -1,4 +1,4 @@
 **pycache**
-telegrambot/CRED.py
-telegrambot/data.json
-telegrambot/numero.txt
+.DS_Store
+!CRED.py
+!numero.txt

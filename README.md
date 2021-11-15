@@ -1,4 +1,3 @@
-# lol-website
-Simple website to show how dumb we are
-
-Fa na cann
+# Big Pluto
+Since we are astronauts this is a simple telegram bot to track how many trips we take to Pluto and back.
+It's simple and noob-proof!
